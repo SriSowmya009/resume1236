@@ -1,0 +1,56 @@
+{
+	"profile":{
+		"img":"image1.jpg",
+		"name":"Sowmya",
+		"Id":"16NN1A1236",
+		"Institute":"Vignan Nirula",
+		"Place":"Guntur"
+	},
+	"career":{
+		"info":"I want to succeed in an environment of growth and excellence to meet personal and organizational goals"
+	},
+	"Educational":[
+		{
+			"Degree":"B-Tech",
+			"Institution":"Vignan Nirula",
+			"YearOfPassing":"2020"
+		},
+		{
+			"Degree":"Intermediate",
+			"Institution":"Narayana junior college",
+			"YearOfPassing":"2016"
+		},
+		{
+			"Degree":"SSC",
+			"Institution":"Bhashyam",
+			"YearOfPassing":"2014"
+		}
+	],
+	"Languages":[
+		{
+			"lang":"Telugu"
+		},
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Hindi"
+		}
+
+	],
+	"Skills":[
+		{
+			"title":"platforms",
+			"content":"windows,Linux"
+
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,java"
+		},
+		{
+			"title":"Database",
+			"content":"mysql"
+		}
+	]
+}
